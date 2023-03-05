@@ -20,6 +20,10 @@ Neon:<br>
 impl: `0x06c69FA0E25dEDe0D25865FA795448fa4851DFb9`<br>
 proxy: `0x5967BcFfA5a2C13dF5A76AFad0c6191d7347D971`
 
+Mantle:<br>
+impl: ```0x06c69FA0E25dEDe0D25865FA795448fa4851DFb9```
+proxy: ```0x5967BcFfA5a2C13dF5A76AFad0c6191d7347D971```
+
 ## Link to modified fork of issuer node
 
 https://github.com/Dext0rs/issuer-node
