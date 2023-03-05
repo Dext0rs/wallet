@@ -1,16 +1,16 @@
-# as_wallet
+# Wallet
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+<div>
+<img src="screenshots/SS_1.PNG" width="20%"> 
+<img src="screenshots/SS_2.PNG" width="20%">
+<img src="screenshots/SS_3.PNG" width="20%">
+<img src="screenshots/SS_4.PNG" width="20%"> 
+</div>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>
+<img src="screenshots/SS_5.PNG" width="20%"> 
+<img src="screenshots/SS_6.PNG" width="20%">
+<img src="screenshots/SS_7.PNG" width="20%">
+</div>
